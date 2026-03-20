@@ -56,9 +56,7 @@ Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobcmv&layout=compact&theme=shadow_red&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=caiobcmv&theme=shadow-red&hide_border=true&ring=ff4d4d&fire=ff1a1a&currStreakLabel=ff8080" alt="GitHub Streak" />
-</p>
+
 
 
 ---
