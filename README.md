@@ -1,18 +1,18 @@
 # 🩸 Caio Barreto
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=30&pause=1200&color=8B0000&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+covil+digital...;Caio+Barreto+%7C+19+anos;Front-end+Developer+com+sede+de+evoluir;Backend+na+mira%3A+JavaScript+e+Java;Jogos%2C+m%C3%BAsica+e+c%C3%B3digo+na+veia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1400&color=C1121F&center=true&vCenter=true&width=900&lines=Seja+bem-vindo+ao+meu+perfil!;Eu+sou+Caio+Barreto+%7C+19+anos;Front-end+Developer;Backend%3A+JavaScript+e+Java;Jogos%2C+m%C3%BAsica+e+tecnologia" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Dark%20Blood%20Mode&fontColor=ffffff&color=0:120000,50:8B0000,100:000000&stroke=8B0000" alt="dark banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=CAIO%20BARRETO&fontAlign=50&fontAlignY=45&fontSize=46&desc=Dark%20Blood%20Theme&descAlign=50&descAlignY=70&color=0:0d0d0d,50:5c0000,100:120000&fontColor=ffffff" alt="dark banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Dark%20Blood-3b0000?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Dark%20Blood-3b0000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Age-19-8B0000?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Front--end-000000?style=for-the-badge&logo=frontendmentor&logoColor=red" />
-  <img src="https://img.shields.io/badge/Backend-JS%20%26%20Java-1a0000?style=for-the-badge&logo=coffeescript&logoColor=ff4d4d" />
+  <img src="https://img.shields.io/badge/Focus-Front--end-000000?style=for-the-badge&logo=html5&logoColor=ff4d4d" />
+  <img src="https://img.shields.io/badge/Backend-JS%20%26%20Java-1a0000?style=for-the-badge&logo=openjdk&logoColor=ff4d4d" />
 </p>
 
 ---
