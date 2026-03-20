@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=CAIO%20BARRETO&fontAlign=50&fontAlignY=45&fontSize=46&desc=Dark%20Blood%20Theme&descAlign=50&descAlignY=70&color=0:0d0d0d,50:5c0000,100:120000&fontColor=ffffff" alt="dark banner" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Theme-Dark%20Blood-3b0000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Age-19-8B0000?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Front--end-000000?style=for-the-badge&logo=html5&logoColor=ff4d4d" />
@@ -56,12 +52,16 @@ Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
 ## 📊 Estatísticas do covil
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caiobcmv&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobcmv&layout=compact&theme=shadow_red&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caiobcmv&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobcmv&layout=compact&theme=shadow_red&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=caiobcmv&theme=shadow-red&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=caiobcmv&theme=shadow-red&hide_border=true&ring=ff4d4d&fire=ff1a1a&currStreakLabel=ff8080" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=caiobcmv&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Troféus GitHub" />
 </p>
 
 ---
