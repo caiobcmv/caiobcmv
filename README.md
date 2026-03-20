@@ -1,60 +1,55 @@
-# 👋 Olá, eu sou o Caio Barreto!
+#  Caio Barreto
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-end+Developer+em+evolução;19+anos+e+muita+vontade+de+aprender;Apaixonado+por+jogos+e+música;Conhecimento+em+Backend+com+JS+e+Java" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Front-end+Developer;Code.+Create.+Dominate.;JavaScript+%7C+React+%7C+Java;Stay+Hungry.+Stay+Dangerous." />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
-🎯 Focado em me tornar um **Desenvolvedor Front-end**  
-💻 Experiência com **JavaScript, React e Java**  
-🎮 Curto **jogos** e tecnologia  
-🎵 Apaixonado por **música**  
-🚀 Sempre buscando evoluir e aprender mais  
+ Desenvolvedor focado em **Front-end**  
+ Trabalho com **JavaScript, React e Java**  
+ Gamer por natureza  
+ Música no máximo enquanto codando  
+ Evolução constante  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caiobcmv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobcmv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caiobcmv&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobcmv&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
 
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=caiobcmv&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
-## 🌐 Onde me encontrar
+##  Contato
 
 <p align="center">
   <a href="https://github.com/caiobcmv">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 “Evoluindo um commit de cada vez.”
+   "Code hard. Stay dangerous."
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,100:6A00FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0000,100:000000"/>
 </p>
