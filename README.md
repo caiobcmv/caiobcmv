@@ -1,4 +1,4 @@
-# 🩸 Caio Barreto
+#  Caio Barreto
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1400&color=C1121F&center=true&vCenter=true&width=900&lines=Seja+bem-vindo+ao+meu+perfil!;Eu+sou+Caio+Barreto+%7C+19+anos;Front-end+Developer;Backend%3A+JavaScript+e+Java;Jogos%2C+m%C3%BAsica+e+tecnologia" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 🦇 Sobre mim
+##  Sobre mim
 
 ```txt
 Nome: Caio Barreto
@@ -24,15 +24,15 @@ Paixões: Jogos, músicas e tecnologia
 Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
 ```
 
-- 🩸 Desenvolvedor em constante evolução, com foco principal no universo **Front-end**.
-- 🧠 Tenho boa noção de **Backend**, especialmente com **JavaScript** e **Java**.
-- 🎮 Curto jogos e uso essa energia competitiva para melhorar meus projetos.
-- 🎧 Música sempre presente enquanto transformo ideias em código.
-- ⚡ Busco interfaces modernas, experiências fluidas e código limpo.
+-  Desenvolvedor em constante evolução, com foco principal no universo **Front-end**.
+-  Tenho boa noção de **Backend**, especialmente com **JavaScript** e **Java**.
+-  Curto jogos e uso essa energia competitiva para melhorar meus projetos.
+-  Música sempre presente enquanto transformo ideias em código.
+-  Busco interfaces modernas, experiências fluidas e código limpo.
 
 ---
 
-## 🧪 Stack sombria
+##  Stack sombria
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,git,github,vscode&theme=dark" />
@@ -49,7 +49,7 @@ Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
 
 ---
 
-## 📊 Estatísticas do covil
+## Estatísticas 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=caiobcmv&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
@@ -66,24 +66,19 @@ Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
 
 ---
 
-## 🎯 Metas atuais
+##  Metas atuais
 
-- 🔥 Dominar ainda mais o ecossistema **Front-end**.
-- ⚙️ Fortalecer a base de **Backend** com JavaScript e Java.
-- 🧩 Criar projetos completos unindo interface bonita + lógica robusta.
-- 🚀 Publicar mais projetos no GitHub com evolução visível.
-
----
-
-## 🕷️ Frase que me define
-
-<p align="center">
-  <i>"No silêncio da noite, o código fala mais alto."</i>
-</p>
+-  Dominar ainda mais o **Front-end**.
+-  Fortalecer a base de **Backend** com JavaScript e Java.
+-  Criar projetos completos unindo interface bonita + lógica robusta.
+-  Publicar mais projetos no GitHub com evolução visível.
 
 ---
 
-## 🌒 Conecte-se comigo
+
+---
+
+## 🌒Conecte-se comigo
 
 <p align="center">
   <a href="https://github.com/caiobcmv">
