@@ -60,9 +60,6 @@ Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
   <img src="https://streak-stats.demolab.com?user=caiobcmv&theme=shadow-red&hide_border=true&ring=ff4d4d&fire=ff1a1a&currStreakLabel=ff8080" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caiobcmv&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="Troféus GitHub" />
-</p>
 
 ---
 
@@ -78,7 +75,7 @@ Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
 
 ---
 
-## 🌒Conecte-se comigo
+## Conecte-se comigo
 
 <p align="center">
   <a href="https://github.com/caiobcmv">
