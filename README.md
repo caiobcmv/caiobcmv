@@ -1,86 +1,77 @@
-#  Caio Barreto
+O lado dark do código que você sempre quis liberar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1400&color=C1121F&center=true&vCenter=true&width=900&lines=Seja+bem-vindo+ao+meu+perfil!;Eu+sou+Caio+Barreto+%7C+19+anos;Front-end+Developer;Backend%3A+JavaScript+e+Java;Jogos%2C+m%C3%BAsica+e+tecnologia" alt="Typing SVG" />
-</p>
+[ [ [
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Blood-3b0000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Age-19-8B0000?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Front--end-000000?style=for-the-badge&logo=html5&logoColor=ff4d4d" />
-  <img src="https://img.shields.io/badge/Backend-JS%20%26%20Java-1a0000?style=for-the-badge&logo=openjdk&logoColor=ff4d4d" />
-</p>
+<div align="center">
 
----
+<!-- Substitua pela sua imagem dark/neon -->
 
-##  Sobre mim
+</div>
 
-```txt
-Nome: Caio Barreto
-Idade: 19 anos
-Especialidade: Front-end
-Conhecimentos de backend: JavaScript e Java
-Paixões: Jogos, músicas e tecnologia
-Objetivo: Evoluir todo dia e construir projetos cada vez mais fortes
-```
+🚀 O que é isso?
+Um projeto insano que quebra as regras do convencional. Feito pra quem curte o lado dark da força e não tem medo de meter a mão na massa.
 
--  Desenvolvedor em constante evolução, com foco principal no universo **Front-end**.
--  Tenho boa noção de **Backend**, especialmente com **JavaScript** e **Java**.
--  Curto jogos e uso essa energia competitiva para melhorar meus projetos.
--  Música sempre presente enquanto transformo ideias em código.
--  Busco interfaces modernas, experiências fluidas e código limpo.
+✨ Features Fodásticas
+⚡ Performance insana - Zero lag, full speed
 
----
+🖤 Design cyberpunk - Escuro e hipnótico
 
-##  Stack sombria
+🔥 Zero dependencies - Puro poder
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,git,github,vscode&theme=dark" />
-</p>
+🛡️ Bulletproof - Testado no inferno
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=339933" />
-</p>
+🎮 Gamified - XP system embutido
 
----
+📦 Instalação Rápida
+bash
+git clone https://github.com/tu-user/tu-repo.git
+cd tu-repo
+npm install # ou yarn, pip, whatever
+npm run dev
+⚙️ Configuração
+text
+DARK_MODE=true
+NEON_INTENSITY=MAX
+HACKER_VIBES=ON
+🧪 Exemplo de Uso
+javascript
+import { unleashHell } from 'neon-shadow';
 
-## Estatísticas 
+unleashHell({
+  target: 'everything',
+  mode: 'darklord'
+});
+// 💥 BOOM! Tudo dark e fodástico
+📊 Status
+Feature	Status	Coverage
+Feature	Status	Coverage
+Core	✅ Live	100%
+Neon Effects	🔥 Burning	98%
+Dark API	🖤 Active	95%
+Hacker Tools	💀 Deadly	99%
+🤝 Contribua
+Fork o repo
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caiobcmv&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobcmv&layout=compact&theme=shadow_red&hide_border=true&langs_count=8" />
-</p>
+Crie sua feature branch (git checkout -b feature/Insano)
 
+Commit suas mudanças (git commit -m '💀 Add dark power')
 
+Push pro branch (git push origin feature/Insano)
 
+Abra um Pull Request!
 
----
+📄 Licença
+MIT - Use, abuse, domine o mundo.
 
-##  Metas atuais
+👥 Créditos
+Você - O verdadeiro gênio
 
--  Dominar ainda mais o **Front-end**.
--  Fortalecer a base de **Backend** com JavaScript e Java.
--  Criar projetos completos unindo interface bonita + lógica robusta.
--  Publicar mais projetos no GitHub com evolução visível.
+Comunidade dark - Sem limites
 
----
+<div align="center">
 
+Feito com ☕ e vibes sombrias por Seu Nome
 
----
+[
 
-## Conecte-se comigo
-
-<p align="center">
-  <a href="https://github.com/caiobcmv">
-    <img src="https://img.shields.io/badge/GitHub-caiobcmv-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:8B0000,100:120000" />
-</p>
+</div>
